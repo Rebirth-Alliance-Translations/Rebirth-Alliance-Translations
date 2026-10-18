@@ -2,7 +2,15 @@
   <img src="rebirth-banner.png" alt="Rebirth Alliance Translations" width="100%">
 </p>
 
+## Soutenir le projet
 
+Toutes les traductions françaises proposées par Rebirth Alliance Translations sont partagées gratuitement.
+
+Si vous appréciez mon travail et souhaitez encourager la poursuite de ces projets, vous pouvez me soutenir librement sur Ko-fi.
+
+[Soutenir Rebirth Alliance Translations sur Ko-fi](https://ko-fi.com/rebirthalliancetranslations)
+
+Merci pour votre soutien et votre passion pour le rétrogaming !
   
 # Rebirth Alliance Translations
 
