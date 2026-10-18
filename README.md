@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="rebirth-banner.png" alt="Rebirth Alliance Translations" width="100%">
+</p>
 
 <p align="center">
   <img src="phoenix-logo.png" alt="Rebirth Alliance Translations" width="320">
