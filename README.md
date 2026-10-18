@@ -2,11 +2,8 @@
   <img src="rebirth-banner.png" alt="Rebirth Alliance Translations" width="100%">
 </p>
 
-<p align="center">
-  <img src="phoenix-logo.png" alt="Rebirth Alliance Translations" width="320">
-</p>
-  
 
+  
 # Rebirth Alliance Translations
 
 ### Redonnons vie aux légendes du jeu vidéo !
@@ -69,3 +66,6 @@ We focus primarily on Super Nintendo classics, sharing our work freely with the 
 Here are some ideas to get you started:
 
 
+<p align="center">
+  <img src="phoenix-logo.png" alt="Rebirth Alliance Translations" width="320">
+</p>
