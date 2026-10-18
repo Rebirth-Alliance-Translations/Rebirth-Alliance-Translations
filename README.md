@@ -1,4 +1,8 @@
-## Hi there 👋
+
+<p align="center">
+  <img src="phoenix-logo.png" alt="Rebirth Alliance Translations" width="320">
+</p>
+  
 
 # Rebirth Alliance Translations
 
